@@ -1,0 +1,8 @@
+{
+  "name": "serverless_dynamo_typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/syedrahatmurtaza/serverless_dynamo_typescript.git",
+  "author": "Syed Rahat Murtaza <syed.rahat.murtaza@ceative.co.uk>",
+  "license": "MIT"
+}
