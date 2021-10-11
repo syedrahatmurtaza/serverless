@@ -17,7 +17,7 @@ const serverlessConfiguration: AWS = {
       platform: "node",
     },
   },
-  plugins: ["serverless-esbuild"],
+  plugins: ["serverless-esbuild", "serverless-offline"],
   provider: {
     name: "aws",
     runtime: "nodejs14.x",
