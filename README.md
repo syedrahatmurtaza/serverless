@@ -4,6 +4,8 @@ This project has been generated using the `aws-nodejs-typescript` template from 
 
 For detailed instructions, please refer to the [documentation](https://www.serverless.com/framework/docs/providers/aws/).
 
+[![CircleCI](https://circleci.com/gh/syedrahatmurtaza/serverless_dynamo_typescript/tree/circleci-project-setup.svg?style=svg)](https://circleci.com/gh/syedrahatmurtaza/serverless_dynamo_typescript/tree/circleci-project-setup)
+
 ## Installation/deployment instructions
 
 Depending on your preferred package manager, follow the instructions below to deploy your project.
